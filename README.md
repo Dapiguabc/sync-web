@@ -4,8 +4,8 @@ This project is a web page to manage the [sync-js](https://github.com/Dapiguabc/
 
 ## Display
 
-[home](https://github.com/Dapiguabc/sync-web/example/1.png)
-[add](https://github.com/Dapiguabc/sync-web/example/2.png)
+![home](https://github.com/Dapiguabc/sync-web/example/1.png)
+![add](https://github.com/Dapiguabc/sync-web/example/2.png)
 
 ## Environment Prepare
 
